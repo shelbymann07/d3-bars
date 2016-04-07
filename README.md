@@ -1,0 +1,1 @@
+Documented logic for creating scales and using them to build an x and y axis.
