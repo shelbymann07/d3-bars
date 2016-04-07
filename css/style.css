@@ -2,14 +2,14 @@
 
 
 
-div {
+/*div {
 	outline: 1px solid green;
 }
 
 
 svg {
 	outline: 1px solid orange;
-}
+}*/
 
 
 .chart {
@@ -17,6 +17,11 @@ svg {
 }
 
 
+
+
+
+
+/* Axis styles */
 
 .axis path,
 .axis line {
